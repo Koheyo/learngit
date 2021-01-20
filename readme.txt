@@ -1,5 +1,4 @@
 git is a distributed virsion control system.
 git is free sortware.
 Git has a mutable index called stage.
-Creating a new branch is quick & simple.
-A new model way.
+Creating a new branch is quick AND simple.
