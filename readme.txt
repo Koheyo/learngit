@@ -4,5 +4,4 @@ Git has a mutable index called stage.
 Creating a new branch is quick AND simple.
 new comment
 let's save
-new app
-good boy
+new kiki
