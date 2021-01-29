@@ -24,5 +24,13 @@ nice
 ok
 >>>>>>> ebbeea9d8a1370c1b6ba2267ecfce5fd7872ee74
 
+<<<<<<< HEAD
 freedom
 kill
+=======
+<<<<<<< HEAD
+op
+=======
+freedom
+>>>>>>> d3db6245b3f3b1117d342750d9c0000a269f8e14
+>>>>>>> 6b44a7ba260371d59f0573aff94620697a5c6c1c
