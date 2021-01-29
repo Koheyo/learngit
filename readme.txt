@@ -25,3 +25,4 @@ ok
 >>>>>>> ebbeea9d8a1370c1b6ba2267ecfce5fd7872ee74
 
 freedom
+kill
