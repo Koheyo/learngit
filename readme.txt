@@ -11,9 +11,21 @@ never leave again
 =======
 today is a sunny day
 how to do that
+<<<<<<< HEAD
+=======
 >>>>>>> 7663b7b (es)
 
 never leave again
-ok
+<<<<<<< HEAD
 
+>>>>>>> 5288bf53b934cade66f74ec57f29a50657449c83
+nice
+=======
+ok
+>>>>>>> ebbeea9d8a1370c1b6ba2267ecfce5fd7872ee74
+
+<<<<<<< HEAD
 op
+=======
+freedom
+>>>>>>> d3db6245b3f3b1117d342750d9c0000a269f8e14
