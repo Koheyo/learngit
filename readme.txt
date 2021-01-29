@@ -4,38 +4,3 @@ Git has a mutable index called stage.
 Creating a new branch is quick AND simple.
 new comment
 let's save 
-<<<<<<< HEAD
-
-never leave again
-
-=======
-today is a sunny day
-how to do that
-<<<<<<< HEAD
-=======
->>>>>>> 7663b7b (es)
-
-never leave again
-<<<<<<< HEAD
-
->>>>>>> 5288bf53b934cade66f74ec57f29a50657449c83
-nice
-=======
-ok
->>>>>>> ebbeea9d8a1370c1b6ba2267ecfce5fd7872ee74
-
-<<<<<<< HEAD
-freedom
-kill
-=======
-<<<<<<< HEAD
-op
-=======
-freedom
->>>>>>> d3db6245b3f3b1117d342750d9c0000a269f8e14
-<<<<<<< HEAD
->>>>>>> 6b44a7ba260371d59f0573aff94620697a5c6c1c
-=======
->>>>>>> 1d533f2ebd1458ad93b7628bae5f071f0a8e5b61
-
-oo
